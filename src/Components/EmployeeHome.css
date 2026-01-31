@@ -1,0 +1,7 @@
+.employee-home {
+  max-width: 700px;        /* same visual width as form */
+  margin: 0 auto;          /* center horizontally */
+  display: flex;
+  flex-direction: column;
+  gap: 24px;               /* space between form and list */
+}
