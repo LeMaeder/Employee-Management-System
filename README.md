@@ -1,3 +1,7 @@
+## Employee Management System
+
+This project is a React-based Employee Management System created as a final project for INT304. It demonstrates component-based design, routing, state management, local storage persistence, and user interface enhancements such as search and sorting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
